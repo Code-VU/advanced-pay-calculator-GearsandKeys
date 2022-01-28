@@ -6,7 +6,7 @@ def calculatePay():
 
 
     pay = hrs*rate
-    print ("Pay: " + str(pay))
+    print ("Payz: " + str(pay))
 
 # end assignment
 ## if you want to test locally before you try to sync
